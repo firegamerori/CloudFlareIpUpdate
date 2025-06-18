@@ -1,0 +1,4 @@
+my-config.ini
+venv/
+.mypy_cache/
+
