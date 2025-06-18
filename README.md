@@ -1,4 +1,4 @@
-<h1 align="center">Simple CloudFlare updater</h1> <p align="center"><a href="#project-description">Project Description</a> - <a href="#key-features">Key Features</a> - <a href="#technology-stack">Tech Stack</a></p>
+<h1 align="center">Simple CloudFlare updater</h1>
 
 ## Project Description
 
